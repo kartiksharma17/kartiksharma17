@@ -1,7 +1,7 @@
 ![logo](https://i.pinimg.com/originals/d4/c4/73/d4c4739637c1ebc963063877357f3e2a.gif)
 <h1 align="center">Hello there! 👋, I'm Kartik Sharma</h1>
 <h3 align="center">An Aspiring CSE Student</h3>
-<img align="right" alt="image" width="400" src="https://i.pinimg.com/originals/a1/12/3d/a1123de2750fa7b10047e450402673d1.gif">
+<img align="right" alt="image" width="400" src="https://i.pinimg.com/originals/04/c6/31/04c631f464a10591aced1d1b38be5cf9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartiksharma17&label=Profile%20views&color=0e75b6&style=flat" alt="kartiksharma17" /> </p>
 
